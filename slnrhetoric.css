@@ -11,9 +11,11 @@ h2 {
 
 p {
 	font-family: Helvetica, Arial, "sans-serif";
+	font-size: 150%;
 }
 .web {
 	width: 100%;
+	margin:auto;
 }
 .col1 {
 	float: left;
