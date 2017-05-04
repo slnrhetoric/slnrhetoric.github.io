@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h1 {
+	text-align: center;
+	font-family: Helvetica, Arial, "sans-serif";
+}
+
+h2 {
+	text-align: center;
+	font-family: Helvetica, Arial, "sans-serif";
+}
+
+p {
+	font-family: Helvetica, Arial, "sans-serif";
+}
+#web {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+img {
+	border-radius: 25px;
+}
